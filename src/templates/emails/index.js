@@ -1,0 +1,6 @@
+export * from './successfulVerificationEmailTemplate'
+export * from './verifyUserAccountEmailTemplate'
+export * from './resetPasswordEmailTemplate'
+export * from './resetPasswordSuccessfulEmailTemplate'
+export * from './verificationRejectedEmailTemplate'
+export * from './contactUsEmailTemplate'
